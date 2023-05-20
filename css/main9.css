@@ -1,0 +1,15 @@
+span{
+    height: 25px !important;
+    width: 30px !important;
+    border-radius: 50px !important;
+    font-weight: bold !important;
+    background-color: gray !important;
+    text-align: center !important;
+}
+p{
+    margin-top: -7px !important;
+    margin-left: -2px;
+}
+.text1{
+    margin-left: -7px !important;
+}

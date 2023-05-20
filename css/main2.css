@@ -1,0 +1,10 @@
+span{
+    width: 10px!important;
+    height: 20px!important;
+    text-align: center!important;
+    font-size: 2px;
+}
+p{
+    margin-top: -9px;
+    margin-left: -5px;
+}
